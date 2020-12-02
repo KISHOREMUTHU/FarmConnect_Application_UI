@@ -1,0 +1,13 @@
+Hello Guys !!! My team , "GeekyApplets" has done a application project named "FarmConnect" . 
+In this application , we have explained an application prototype of connecting farmers to the nearby Vegetable markets .  
+We have posted all the source codes of the front - end UI codes in this repository .
+
+Contributors :
+
+Kishore M
+Maheeraj J F 
+Nissanth N A 
+Nithin S 
+Pradeep S 
+
+       Thanks to all my fellow mates for this amazing job . Thank you !!!!
